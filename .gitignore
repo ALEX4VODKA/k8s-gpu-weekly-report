@@ -1,0 +1,16 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+snap/
+logs/
+daily-report/
+weekly-report/
+test-report/
+
+# Local production implementation and organization-specific artifacts.
+/scripts/
+/deploy/
+/muban/
+/WINDOWS_TASK_SCHEDULER.md
